@@ -1,0 +1,19 @@
+p{
+	margin-left:30px;
+}
+
+body{
+	background-color: lightgreen;
+}
+
+a:link{
+	color:#FFFFFF;
+}
+
+a:visited{
+	color:#FF00FF;
+}
+
+a:hover{
+	color:red;
+}
